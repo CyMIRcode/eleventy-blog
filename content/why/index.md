@@ -1,7 +1,7 @@
 ---
 eleventyExcludeFromCollections: true
 layout: page.njk
-title: Why
+title: Link
 ---
 
-You can put your own page here.
+Welcome back to the future！
