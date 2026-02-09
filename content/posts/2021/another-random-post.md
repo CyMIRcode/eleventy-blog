@@ -1,7 +1,7 @@
 ---
-title: Random post
+title: 测试文章
 date: 2021-01-26
-image: /assets/images/2021/coolimage.jpg
+image:
 ---
 
-This is a super random post.
+这是第一篇测试文章，测试我的新博客。
