@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
     // Website title, shown in left sidebar and in page title
-    title: "{ 旧梦|Yesterday\'s Tomorrow }",
+    title: "旧梦|Yesterday\'s Tomorrow",
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
@@ -12,7 +12,7 @@ module.exports = {
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "René Winkelmeyer",
     // Site description, shown below site image (optional)
-    description: "My kitchen sink about stuff",
+    description: "Yesterday's Tomorrow ",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
