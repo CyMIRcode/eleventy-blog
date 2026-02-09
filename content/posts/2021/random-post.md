@@ -1,6 +1,7 @@
 ---
 title: 测试
 date: 2021-01-24
+tags: [标签1, 标签2]
 image: /assets/images/2021/coolimage.jpg
 ---
 
