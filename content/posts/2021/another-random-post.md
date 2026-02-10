@@ -1,7 +1,7 @@
 ---
 title: 回到2026
 date: 2021-01-27
-image: /assets/images/2021/coolimage.jpg
+image: /assets/images/2021/cyber.webp
 ---
 
 我在闪烁的 CRT 屏幕前编织代码， 幽蓝的荧光里映射出未来乌托邦的模样。 突然，时间在代码间坍缩，将我粗暴地扔在了2026年的街头。
