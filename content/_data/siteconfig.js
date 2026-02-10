@@ -8,7 +8,7 @@ module.exports = {
     // Profile image for left sidebar
     image: "/assets/images/sidebar_profile.jpg",
     // Image alt text for left sidebar
-    imageAlt: "René and Einstein",
+    imageAlt: "Peter",
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "Peter",
     // Site description, shown below site image (optional)
@@ -19,12 +19,6 @@ module.exports = {
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
     socialGitHub: "muenzpraeger",
-    // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "muenzpraeger",
-    // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
-    socialTwitter: "muenzpraeger",
-    // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar
-    socialYouTube: "UCH60RRaY2GI9m62z1loLjcA",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
     googleAnalytics: "YOUR_GA-ID",
     // Algolia-powered search  (optional, remove it not needed),
