@@ -17,8 +17,6 @@ module.exports = {
     // set in your Markdown frontmatter; relevant for social
     // sharing.
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
-    // GitHub ID (optional, remove it not needed), used for link in the left sidebar
-    socialGitHub: "muenzpraeger",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
     googleAnalytics: "YOUR_GA-ID",
     // Algolia-powered search  (optional, remove it not needed),
