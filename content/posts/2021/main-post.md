@@ -1,7 +1,7 @@
 ---
 title: 最美好的前程
 date: 2021-01-27
-image: /assets/images/2021/retrofuturism.webp
+image: /assets/images/2021/future.webp
 ---
 
 那首歌在夏日回廊的尽头回响，
