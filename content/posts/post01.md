@@ -1,6 +1,6 @@
 ---
 title: 回到2026
-date: 2021-01-27
+date: 2026-01-10
 image: /assets/images/2021/cyber.webp
 description: "我在闪烁的 CRT 屏幕前编织代码， 幽蓝的荧光里映射出未来乌托邦的模样。"
 ---
