@@ -1,6 +1,6 @@
 ---
 title: 昨日的约定
-date: 2021-01-24
+date: 2026-01-20
 image: /assets/images/2021/retrofuturism.webp
 description: "我没说出口。他们的火炬太纯净，我不忍用现实的灰烬去浇灭。转身离开时，我只低语：愿你们的未来，永远像今天这样明亮。"
 ---
