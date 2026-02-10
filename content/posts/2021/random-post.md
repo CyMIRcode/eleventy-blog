@@ -1,7 +1,7 @@
 ---
 title: 愿你们的未来，永远像今天这样明亮
 date: 2021-01-24
-image: /assets/images/2021/coolimage.jpg
+image: /assets/images/2021/retrofuturism.webp
 ---
 
 我站在1988年的硅谷咖啡馆，蒸汽从咖啡杯升起，像旧时代的梦。
