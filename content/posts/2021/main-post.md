@@ -1,50 +1,37 @@
 ---
-title: Your first amazing blog post
+title: 最美好的前程
 date: 2021-01-27
 image: /assets/images/2021/retrofuturism.webp
 ---
 
-This is your first blog post. And it can contain a lot of stuff. So let's go through a few things.
+那首歌在夏日的走廊尽头回响，
+阿丽莎的眸子里藏着亿万星辰。
+她说：“去那美好的远方吧，
+每个人都是驾驶星球的船长。”
+六（B）班的孩子们紧握铅笔，
+在草稿本的边缘，画出通往月球的舷窗。
 
-## Code for fun or profit
+但她没回头，看那些正在消融的纪念碑，
+也没提一九九一年的那个圣诞夜。
+红旗像一片干枯的叶子，
+从克里姆林宫的尖顶无声滑落。
+“联盟”不再是通往太空的阶梯，
+而是旧货摊上，五卢布就能买到的铝合金勋章。
 
-Having good looking (totally opiniated here, no) code snippets is mandatory. At least for myself. The included Prism config is based on [this selection](https://prismjs.com/download.html#themes=prism-coy&languages=markup+css+clike+javascript+bash+docker+java+regex+ruby+rust+scala+shell-session+typescript&plugins=show-language+toolbar). No standard theme has been chosen, there are some modifications to fit the Chirpy UX.
+她没提那杯名为“自由”的苦酒，
+如何让必胜的积蓄，在一夜间化为废纸。
+当实验室的离心机停止转动，
+那位未来的物理学家，
+正缩在冬日的阴影里，兜售过期的罐头。
 
-Find here an excerpt of the visuals.
-
-### Bash
-
-```bash
-if [ -z "$HEROKU_PWA_APP_NAME" ]; then
-    echo "Please provide HEROKU_PWA_APP_NAME environment variable"
-    exit 1
-fi
-```
-
-### JavaScript
-
-```javascript
-const jestLwcConfig = require("@lwc/jest-preset");
-import { resolve } from "path";
-
-export const jestConfig = {
-    ...jestLwcConfig,
-    resolver: resolve(__dirname, "../utils/resolver.js")
-};
-```
-
-## Images, images, images
-
-First, you'll notice this stunning picture. I got it royalty-free from Pixabay (great site). Now, that's not the point that I want to make here. The image is not added via Markdown, but instead via the `image` value of the Markdown front matter. As it's always good IMHO to start with a visual you'll get a standardized way of addding an image asset.
-
-Second, the image is optimized for your browser size _and_ browser. Depending on what you currently use as browser you'll get i. e. a JPG or a WebP file. All in the right size for the screen. Obviously, all images have standard settings for lazy loading etc.
-
-## Headings all over the place
-
-It's all standard markdown to render the headings, and as well to display the table of contents (TOC) on the right side.
-
-Note: never ever add a first level heading (aka: `h1`) to your page. This will break accessibility, as the title is already an h1, and will be represented as such in the rendered HTML.
-
-## Other stuff
-
-As to be expected you can do all the things that are _standard_ Markdown. So tables, blockquotes etc. And if you prefer to add custom Markdown functionality, just extend the configuration with custom [markdown-it](https://github.com/markdown-it/markdown-it) plugins.
+阿丽莎唯一没敢预言的，是顿巴斯的泥沼。
+那些年过五旬的男同学们，
+正在进行一场残酷的同学会。
+曾在同一间教室背诵普希金，
+曾在同一个屋檐下分享面包。
+如今，那些幻想研究宇宙射线的孩子，
+正屏住呼吸，按下了无人机上的起爆键。
+他们在十字准星里重逢——
+瞄准镜里，那个在泥泞中翻滚求生的身影，
+曾在1984年的物理课上，
+借给他半块橡皮。
