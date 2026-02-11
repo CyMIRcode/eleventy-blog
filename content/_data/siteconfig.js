@@ -4,7 +4,7 @@ module.exports = {
     // Website title, shown in left sidebar and in page title
     title: "旧梦",
     // Site URL to generate absolute URLs. Used across the board.
-    url: process.env.URL || "http://localhost:8080",
+    url: process.env.URL || "https://future.idv.ng",
     // Profile image for left sidebar
     image: "/assets/images/sidebar_profile.jpg",
     // Image alt text for left sidebar
