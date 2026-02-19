@@ -35,4 +35,17 @@ description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代
 
 It was only a Dream.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_UDG9TSX_iA" frameborder="0" allowfullscreen></iframe>
+
+后记：
+
+“这里原本有一场梦，但因为他们要我证明自己是人类，所以，我删除了关于这场梦的链接（YouTube）。
+
+我不希望我们的感动被算法统计，也不希望我们的怀旧被广告标价。
+
+如果你和我一样，也被这段旋律触动，请前往 Timecop1983 的官方 Bandcamp 或个人网站，花 7 欧元，买下这张属于你的数字专辑，将它存进你的电脑硬盘，音乐播放器。
+
+在这个一切都变得‘在线’且‘易碎’的时代，让我们重新拥有一些真正‘离线’且‘永恒’的东西。”
+
+https://timecop1983.com/
+
+https://timecop1983.bandcamp.com/album/night-drive
