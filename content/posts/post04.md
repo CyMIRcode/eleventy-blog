@@ -35,5 +35,5 @@ description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代
 
 It was only a Dream.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_UDG9TSX_iA?si=euSzPlHZNvJ8r6oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/_UDG9TSX_iA?si=euSzPlHZNvJ8r6oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.youtube.com/watch?v=_UDG9TSX_iA&list=LL&index=4)
 
