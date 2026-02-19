@@ -2,7 +2,7 @@
 title: It was only a Dream.
 date: 2026-02-20
 image: /assets/images/2021/future.webp
-description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代的梦，永远不会剧终。直到合成器的尾音渐渐稀薄，晨曦刺破了眼睑，泡沫悄然滑落。"
+description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代的梦，永远不会剧终。"
 ---
 
 午夜引擎的低吟，划破寂静，
