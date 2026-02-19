@@ -38,7 +38,7 @@ It was only a Dream.
 
 后记：
 
-“这里原本有一场梦，但因为他们要我证明自己是人类，所以，我删除了关于这场梦的链接（YouTube）。
+这里原本有一场梦，但因为他们要我证明自己是人类，所以，我删除了关于这场梦的链接（YouTube）。
 
 我不希望我们的感动被算法统计，也不希望我们的怀旧被广告标价。
 
@@ -46,6 +46,6 @@ It was only a Dream.
 
 在这个一切都变得‘在线’且‘易碎’的时代，让我们重新拥有一些真正‘离线’且‘永恒’的东西。”
 
-https://timecop1983.com/
+https://timecop1983.com/ 官网
 
-https://timecop1983.bandcamp.com/album/night-drive
+https://timecop1983.bandcamp.com/album/night-drive  试听/购买
