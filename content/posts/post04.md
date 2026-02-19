@@ -35,4 +35,4 @@ description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代
 
 It was only a Dream.
 
-https://youtu.be/_UDG9TSX_iA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_UDG9TSX_iA" frameborder="0" allowfullscreen></iframe>
