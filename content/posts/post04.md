@@ -1,7 +1,6 @@
 ---
 title: It was only a Dream.
 date: 2026-02-20
-image: /assets/images/1983.webp
 description: "我们在电子鼓点构筑的公路上飞驰，以为八十年代的梦，永远不会剧终。"
 ---
 
